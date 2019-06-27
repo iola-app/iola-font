@@ -15,7 +15,7 @@
   "envelope": 59917,
   "eye-crossed": 59918,
   "eye": 59919,
-  "friends": 59920,
+  "friends-bar": 59920,
   "like-filled": 59921,
   "like": 59922,
   "lock": 59923,
@@ -24,5 +24,6 @@
   "search": 59926,
   "send-message": 59927,
   "user-bar": 59928,
-  "users-empty-state": 59929
+  "users-empty-state": 59929,
+  "friends-empty-state": 59929
 }
